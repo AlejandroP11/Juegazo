@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Juegazo:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Juegazo_jar</output-path>
+    <root id="archive" name="Juegazo.jar">
+      <element id="module-output" name="Juegazo" />
+    </root>
+  </artifact>
+</component>
