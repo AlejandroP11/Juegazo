@@ -1,9 +1,9 @@
-package com.programacion;
+package Juego;
 
 import javax.swing.*;
 import java.util.Random;
 
-public class Main {
+public class Juego {
 
     public static void main(String[] args) {
         int distancia;
