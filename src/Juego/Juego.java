@@ -1,11 +1,17 @@
 package Juego;
+/**
+ * @author Alejandro Pereiro G
+ */
 
 import javax.swing.*;
 import java.util.Random;
 
 public class Juego {
-
     public static void main(String[] args) {
+        /**
+         * Esto sirve para jugar con un número aleatorio, elegido por la computadora, entre 1 y 50
+         * @param distancia, i, num
+         */
         int distancia;
         int i = 0;
         int num = 0;
